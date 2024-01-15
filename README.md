@@ -1,5 +1,8 @@
 # Hi, I'm Yonatan 👋
 My first experience coding was in elementary school, when I experimented with Scratch during summer camp. Since then, I have explored many other aspects of computer science and technology. From hardware, when I built my own computer at age 12, to web development throughout high school, and now experimenting with Raspberry PI projects with my little brother. I am always looking to explore and innovate, and I firmly believe the best way to learn is by doing!
+
+## Currently working on..
+TradeTorch! A platform with one clear objective, connecting lifelong learners with likeminded individuals, established professionals, and a real community to share their thoughts and endeavors.
 <!--
 **YonatanTussa/YonatanTussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
