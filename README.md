@@ -1,5 +1,5 @@
 # Hi, I'm Yonatan 👋
-My first experience coding was in elementary school, when I experimented with Scratch during summer camp. Since then, I have explored many other aspects of computer science and technology. From hardware, when I built my own computer at age 12, to web development throughout high school, and now experimenting with Raspberry PI projects with my little brother. I am always looking to explore and innovate, and I firmly believe the best way to learn is by doing!
+A lifelong learner with a passion for computer science and technology. My journey began with hardware, as I built my own computer at the age of 12. Since then, I have explored many other aspects of computer science and technology, from web and mobile app development to data analysis and IT. I am always looking to explore and innovate, and I firmly believe the best way to learn is by doing!
 
 ## Currently working on..
 • TradeTorch! A platform with one clear objective, connecting lifelong learners with like-minded individuals, established professionals, and a real community to share their thoughts and ideas.
