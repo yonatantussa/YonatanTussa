@@ -1,5 +1,5 @@
 # Hi, I'm Yonatan 👋
-A lifelong learner with a passion for computer science and technology. I enjoy collaborating with others to tackle real-world problems. Always looking to explore and innovate, and I firmly believe the best way to learn is by doing!
+A lifelong learner with a passion for computer science and technology. I enjoy collaborating with others to tackle real-world problems.
 
 <!--
 **YonatanTussa/YonatanTussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
