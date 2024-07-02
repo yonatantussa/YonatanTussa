@@ -1,6 +1,6 @@
-# Hi, I'm Yonatan 👋
+<!-- # Hi, I'm Yonatan 👋
 I'm passionate about computer science and technology, and I enjoy collaborating with others to tackle real-world problems. Whether I'm writing code, designing user-friendly interfaces, or building something new, I'm always eager to learn and grow.
-
+-->
 <!--
 **YonatanTussa/YonatanTussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
